@@ -1,0 +1,10 @@
+com.DefaultCompany.PJSH1T.launcher-pngs-0 /Users/alxxvine/Documents/GitHub/PJSH1T/PJSH1T/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/pngs/release
+com.DefaultCompany.PJSH1T.launcher-resValues-1 /Users/alxxvine/Documents/GitHub/PJSH1T/PJSH1T/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/resValues/release
+com.DefaultCompany.PJSH1T.launcher-rs-2 /Users/alxxvine/Documents/GitHub/PJSH1T/PJSH1T/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/rs/release
+com.DefaultCompany.PJSH1T.launcher-mergeReleaseResources-3 /Users/alxxvine/Documents/GitHub/PJSH1T/PJSH1T/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.DefaultCompany.PJSH1T.launcher-mergeReleaseResources-4 /Users/alxxvine/Documents/GitHub/PJSH1T/PJSH1T/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.DefaultCompany.PJSH1T.launcher-merged_res-5 /Users/alxxvine/Documents/GitHub/PJSH1T/PJSH1T/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/merged_res/release
+com.DefaultCompany.PJSH1T.launcher-main-6 /Users/alxxvine/Documents/GitHub/PJSH1T/PJSH1T/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res
+com.DefaultCompany.PJSH1T.launcher-release-7 /Users/alxxvine/Documents/GitHub/PJSH1T/PJSH1T/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/release/res
+com.DefaultCompany.PJSH1T.launcher-packaged_res-8 /Users/alxxvine/Documents/GitHub/PJSH1T/PJSH1T/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release
+com.DefaultCompany.PJSH1T.launcher-packaged_res-9 /Users/alxxvine/Documents/GitHub/PJSH1T/PJSH1T/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/packaged_res/release
